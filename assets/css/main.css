@@ -36,7 +36,7 @@
 .container .header_text:hover {
   transition: 0.5s;
   cursor: pointer;
-  color: black;
+  color: #FCB72B;
   font-size: 25px;
   font-weight: 800;
 }
@@ -54,7 +54,7 @@
 .container .header_text1:hover {
   transition: 0.5s;
   cursor: pointer;
-  color: black;
+  color: #FCB72B;
   font-size: 25px;
   font-weight: 800;
 }
@@ -72,7 +72,7 @@
 .container .header_text2:hover {
   transition: 0.5s;
   cursor: pointer;
-  color: black;
+  color: #FCB72B;
   font-size: 25px;
   font-weight: 800;
 }
@@ -401,7 +401,7 @@
 .container .footer_text1:hover {
   transition: 0.5s;
   cursor: pointer;
-  color: #FFFFFF;
+  color: #FCB72B;
   font-size: 25px;
   font-weight: 800;
 }
@@ -419,7 +419,7 @@
 .container .footer_text2:hover {
   transition: 0.5s;
   cursor: pointer;
-  color: #FFFFFF;
+  color: #FCB72B;
   font-size: 25px;
   font-weight: 800;
 }
@@ -437,7 +437,7 @@
 .container .footer_text3:hover {
   transition: 0.5s;
   cursor: pointer;
-  color: #FFFFFF;
+  color: #FCB72B;
   font-size: 25px;
   font-weight: 800;
 }

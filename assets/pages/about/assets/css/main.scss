@@ -40,7 +40,7 @@
         &:hover {
             transition: .5s;
             cursor: pointer;
-            color: black;
+            color: #FCB72B;
             font-size: 25px;
             font-weight: 800;
         }
@@ -60,7 +60,7 @@
         &:hover {
             transition: .5s;
             cursor: pointer;
-            color: black;
+            color: #FCB72B;
             font-size: 25px;
             font-weight: 800;
         }
@@ -80,7 +80,7 @@
         &:hover {
             transition: .5s;
             cursor: pointer;
-            color: black;
+            color: #FCB72B;
             font-size: 25px;
             font-weight: 800;
         }
@@ -488,6 +488,13 @@
             margin-top: -50px;
             margin-left: 380px;
             background-color: #F2F5F9;
+            transition: .5s;
+
+            &:hover{
+                background-color: #FFF4DF;
+                transition: .5s;
+                cursor: pointer;
+            }
 
             .hello_text {
                 position: absolute;
@@ -528,6 +535,13 @@
             margin-top: 16px;
             margin-left: 380px;
             background-color: #F2F5F9;
+            transition: .5s;
+
+            &:hover{
+                background-color: #FFF4DF;
+                transition: .5s;
+                cursor: pointer;
+            }
 
             .hello_text1 {
                 position: absolute;
@@ -555,6 +569,13 @@
             margin-top: 16px;
             margin-left: 380px;
             background-color: #F2F5F9;
+            transition: .5s;
+
+            &:hover{
+                background-color: #FFF4DF;
+                transition: .5s;
+                cursor: pointer;
+            }
 
             .hello_text2 {
                 position: absolute;
@@ -599,6 +620,13 @@
             margin-top: -64px;
             margin-left: 380px;
             background-color: #F2F5F9;
+            transition: .5s;
+
+            &:hover{
+                background-color: #FFF4DF;
+                transition: .5s;
+                cursor: pointer;
+            }
 
             .hello_text3 {
                 position: absolute;
@@ -639,6 +667,13 @@
             margin-top: 16px;
             margin-left: 380px;
             background-color: #F2F5F9;
+            transition: .5s;
+
+            &:hover{
+                background-color: #FFF4DF;
+                transition: .5s;
+                cursor: pointer;
+            }
 
             .hello_text4 {
                 position: absolute;
@@ -666,6 +701,13 @@
             margin-top: 16px;
             margin-left: 380px;
             background-color: #F2F5F9;
+            transition: .5s;
+
+            &:hover{
+                background-color: #FFF4DF;
+                transition: .5s;
+                cursor: pointer;
+            }
 
             .hello_text5 {
                 position: absolute;

@@ -36,7 +36,7 @@
 .container .header_text:hover {
   transition: 0.5s;
   cursor: pointer;
-  color: black;
+  color: #FCB72B;
   font-size: 25px;
   font-weight: 800;
 }
@@ -54,7 +54,7 @@
 .container .header_text1:hover {
   transition: 0.5s;
   cursor: pointer;
-  color: black;
+  color: #FCB72B;
   font-size: 25px;
   font-weight: 800;
 }
@@ -72,7 +72,7 @@
 .container .header_text2:hover {
   transition: 0.5s;
   cursor: pointer;
-  color: black;
+  color: #FCB72B;
   font-size: 25px;
   font-weight: 800;
 }
@@ -432,6 +432,12 @@
   margin-top: -50px;
   margin-left: 380px;
   background-color: #F2F5F9;
+  transition: 0.5s;
+}
+.container .box .white:hover {
+  background-color: #FFF4DF;
+  transition: 0.5s;
+  cursor: pointer;
 }
 .container .box .white .hello_text {
   position: absolute;
@@ -468,6 +474,12 @@
   margin-top: 16px;
   margin-left: 380px;
   background-color: #F2F5F9;
+  transition: 0.5s;
+}
+.container .box .white1:hover {
+  background-color: #FFF4DF;
+  transition: 0.5s;
+  cursor: pointer;
 }
 .container .box .white1 .hello_text1 {
   position: absolute;
@@ -492,6 +504,12 @@
   margin-top: 16px;
   margin-left: 380px;
   background-color: #F2F5F9;
+  transition: 0.5s;
+}
+.container .box .white2:hover {
+  background-color: #FFF4DF;
+  transition: 0.5s;
+  cursor: pointer;
 }
 .container .box .white2 .hello_text2 {
   position: absolute;
@@ -531,6 +549,12 @@
   margin-top: -64px;
   margin-left: 380px;
   background-color: #F2F5F9;
+  transition: 0.5s;
+}
+.container .box .white3:hover {
+  background-color: #FFF4DF;
+  transition: 0.5s;
+  cursor: pointer;
 }
 .container .box .white3 .hello_text3 {
   position: absolute;
@@ -567,6 +591,12 @@
   margin-top: 16px;
   margin-left: 380px;
   background-color: #F2F5F9;
+  transition: 0.5s;
+}
+.container .box .white4:hover {
+  background-color: #FFF4DF;
+  transition: 0.5s;
+  cursor: pointer;
 }
 .container .box .white4 .hello_text4 {
   position: absolute;
@@ -591,6 +621,12 @@
   margin-top: 16px;
   margin-left: 380px;
   background-color: #F2F5F9;
+  transition: 0.5s;
+}
+.container .box .white5:hover {
+  background-color: #FFF4DF;
+  transition: 0.5s;
+  cursor: pointer;
 }
 .container .box .white5 .hello_text5 {
   position: absolute;
